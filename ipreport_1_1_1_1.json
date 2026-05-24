@@ -1,0 +1,37 @@
+{
+  "IP": "1.1.1.1",
+  "CheckedAt": "2026-05-24T02:15:25.6681086Z",
+  "Risk": {
+    "Value": 6,
+    "Level": "Medium"
+  },
+  "AbuseIPDB": {
+    "Score": 0,
+    "TotalReports": 237,
+    "LastReported": "2026-05-22T23:41:30\u002B00:00",
+    "Success": true
+  },
+  "IpInfo": {
+    "Ip": "1.1.1.1",
+    "Hostname": "one.one.one.one",
+    "City": "Brisbane",
+    "Region": "Queensland",
+    "Country": "AU",
+    "Org": "AS13335 Cloudflare, Inc.",
+    "Asn": "AS13335 Cloudflare, Inc.",
+    "IsHosting": false,
+    "IsProxy": false,
+    "IsTor": false,
+    "Success": true
+  },
+  "IpApi": {
+    "Status": "fail",
+    "Country": "",
+    "RegionName": "",
+    "City": "",
+    "Isp": "",
+    "Org": "",
+    "As": "",
+    "Success": false
+  }
+}

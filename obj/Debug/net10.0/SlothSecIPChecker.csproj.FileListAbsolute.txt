@@ -1,0 +1,14 @@
+C:\Users\ginag\SlothSecIPChecker\bin\Debug\net10.0\SlothSecIPChecker.exe
+C:\Users\ginag\SlothSecIPChecker\bin\Debug\net10.0\SlothSecIPChecker.deps.json
+C:\Users\ginag\SlothSecIPChecker\bin\Debug\net10.0\SlothSecIPChecker.runtimeconfig.json
+C:\Users\ginag\SlothSecIPChecker\bin\Debug\net10.0\SlothSecIPChecker.dll
+C:\Users\ginag\SlothSecIPChecker\bin\Debug\net10.0\SlothSecIPChecker.pdb
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.AssemblyInfoInputs.cache
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.AssemblyInfo.cs
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.csproj.CoreCompileInputs.cache
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.dll
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\refint\SlothSecIPChecker.dll
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.pdb
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.genruntimeconfig.cache
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\ref\SlothSecIPChecker.dll
