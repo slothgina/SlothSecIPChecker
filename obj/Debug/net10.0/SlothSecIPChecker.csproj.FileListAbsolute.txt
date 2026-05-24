@@ -12,3 +12,4 @@ C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\refint\SlothSecIPChecker.dll
 C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.pdb
 C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.genruntimeconfig.cache
 C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\ref\SlothSecIPChecker.dll
+C:\Users\ginag\SlothSecIPChecker\obj\Debug\net10.0\SlothSecIPChecker.sourcelink.json

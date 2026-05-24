@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SlothSecIPChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2247b3433d8119834df8a118015b28501b3565e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SlothSecIPChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SlothSecIPChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
